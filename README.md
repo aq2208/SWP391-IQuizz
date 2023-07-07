@@ -1,14 +1,18 @@
 # SWP391-IQuizz
 
 
-Description: IQuizz is an online quiz practice system that supports the organization/expert to build up & sell the quiz practice
+📌 Description: IQuizz is an online quiz practice system that supports the organization/expert to build up & sell the quiz practice
 services, and supports the user to search, register, and access online subjects for practicing. This system supports multiple types of users for
 multiple purposes.
 
 
 
 
-Technologies:
+📌 Project Type: Group Project (Group with 6 members)
+
+
+
+📌 Technologies:
 
 
 • Front-end: Thymeleaf, HTML, CSS, Bootstrap, JavaScript
@@ -25,7 +29,7 @@ Technologies:
 
 
 
-Responsibilities:
+📌 Responsibilities:
 
 
 • Deciding the technologies used in the project, based on the needs of the application and the goal of the business.
