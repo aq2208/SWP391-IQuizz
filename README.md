@@ -15,16 +15,16 @@ multiple purposes.
 📌 Technologies:
 
 
-• Front-end: Thymeleaf, HTML, CSS, Bootstrap, JavaScript
+   • Front-end: Thymeleaf, HTML, CSS, Bootstrap, JavaScript
 
 
-• Back-end: Spring Boot, Spring MVC, Spring Data JPA
+   • Back-end: Spring Boot, Spring MVC, Spring Data JPA
 
 
-• Database: MySQL Server
+   • Database: MySQL Server
 
 
-• Version Control: Git, GitHub
+   • Version Control: Git, GitHub
 
 
 
