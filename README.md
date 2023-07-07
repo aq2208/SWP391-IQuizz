@@ -6,6 +6,8 @@ services, and supports the user to search, register, and access online subjects 
 multiple purposes.
 
 
+
+
 Technologies:
 
 
@@ -19,6 +21,8 @@ Technologies:
 
 
 • Version Control: Git, GitHub
+
+
 
 
 Responsibilities:
